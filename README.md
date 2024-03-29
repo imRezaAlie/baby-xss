@@ -7,7 +7,7 @@
   <br/>
   <p align="center">
     <br />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/easy-xss"><strong>Download and Install »</strong></a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/baby-xss/"><strong>Download and Install »</strong></a>
     <br/>
     <a href="https://rezaalieir">About Me</a>  
 
