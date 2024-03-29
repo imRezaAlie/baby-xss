@@ -9,7 +9,7 @@
     <br />
     <a href="https://addons.mozilla.org/en-US/firefox/addon/baby-xss/"><strong>Download and Install »</strong></a>
     <br/>
-    <a href="https://rezaalieir">About Me</a>  
+    <a href="https://rezaalie.ir">About Me</a>  
 
   </p>
 </div>
